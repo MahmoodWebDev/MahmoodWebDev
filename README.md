@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cloning AirBnB.**
 
-- 🌱 I’m currently learning **Next js 13.**
+- 🌱 I’m currently learning more **Next js 13.**
 
 - ⚡ Fun fact **I ❤ Parkour.**
 
