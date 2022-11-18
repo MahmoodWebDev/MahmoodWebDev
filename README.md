@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js 13**
 
-- ⚡ Fun fact **I like sarcastic jokes.**
+- ⚡ Fun fact **I ❤ Parkour, Game of Thrones & all Medieval TV shows & movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
