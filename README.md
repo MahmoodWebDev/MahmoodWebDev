@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mshahsayer" target="blank"><img src="https://img.shields.io/twitter/follow/mshahsayer?logo=twitter&style=for-the-badge" alt="mshahsayer" /></a> </p>
 
-- 🔭 I’m currently working on **Cloning AirBnB.**
+- 🔭 I’m currently working on **Cloning Airbnb.**
 
 - 🌱 I’m currently learning more **Next js 13.**
 
