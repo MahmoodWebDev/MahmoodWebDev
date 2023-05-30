@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [mahmood.io](mahmood.io)
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [[LinkedIn](LinkedIn)](https://www.linkedin.com/in/mahmood-shah-2018/)
 
-- 💬 Ask me about **JavaScript and CSS.**
+- 💬 Ask me about **MERN Stack, GCP and Firebase.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mahmood-shah-2018/**
 
-- 📄 Know about my experiences [LinkedIn](LinkedIn)
+- 📄 Know about my experiences [[LinkedIn](LinkedIn)](https://www.linkedin.com/in/mahmood-shah-2018/)
 
 - ⚡ Fun fact **I ❤ Parkour.**
 
