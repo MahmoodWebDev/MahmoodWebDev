@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **AI Tools and frontend technologies e.g. JavaScript, React and Next.js.**
 
-- 🌱 I’m currently learning **Next js 13, React and AI tools e.g. GPT-4, Midjourney and Leonardo.ai.**
+- 🌱 I’m currently exploring more **Next js 13, React and AI tools e.g. GPT-4, Midjourney and Leonardo.ai.**
 
 - 👨‍💻 All of my projects are available at [mahmood.io](mahmood.io)
 
 - 📝 I regularly write articles on [[LinkedIn](LinkedIn)](https://www.linkedin.com/in/mahmood-shah-2018/)
 
-- 💬 Ask me about **MERN Stack, GCP and Firebase.**
+- 💬 Ask me about **MERN Stack, GCP, Firebase, Heroku, Vercel and Netlify.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mahmood-shah-2018/**
 
