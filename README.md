@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Mahmood! <img src="https://www.mahmood.io/images/ma-Berlin-8.jpg" alt="vercel" width="40" height="40"/> </a> </h1>
+<h1 align="center">Hi there 👋, I am Mahmood! </h1>
 <h3 align="center">I'm a web developer and based in Malmö, Sweden. 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodwebdev" /> </p>
