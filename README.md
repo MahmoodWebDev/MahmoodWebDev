@@ -45,9 +45,9 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.vercel.com" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg](https://logowik.com/content/uploads/images/vercel1868.jpg)" alt="vercel" width="40" height="40"/> </a>
+  <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="" alt="netlify" width="40" height="40"/> </a>
   
-     
+   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodwebdev&show_icons=true&locale=en&layout=compact" alt="mahmoodwebdev" /></p>
 
