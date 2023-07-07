@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mshahsayer" target="blank"><img src="https://img.shields.io/twitter/follow/mshahsayer?logo=twitter&style=for-the-badge" alt="mshahsayer" /></a> </p>
 
-- 🔭 I’m currently working on **AI Tools and frontend technologies e.g. JavaScript, React and Next.js.**
+- 🔭 I’m currently working on **AI Tools and frontend technologies e.g. JavaScript, TypeScript, React and Next.js.**
 
 - 🌱 I’m currently exploring more **Next js 13, React and AI tools e.g. GPT-4, Midjourney and Leonardo.ai.**
 
