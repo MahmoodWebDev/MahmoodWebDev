@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN Stack, GCP, Firebase, Heroku, Vercel and Netlify.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mahmood-shah-2018/**
+- 📫 How to reach me: [LinkedIn - Mahmood Shah](https://www.linkedin.com/in/mahmood-shah-2018/)
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/mahmood-shah-2018/**
 
