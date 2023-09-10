@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: [LinkedIn - Mahmood Shah](https://www.linkedin.com/in/mahmood-shah-2018/)
 
-- 📄 Know about my experiences **https://www.linkedin.com/in/mahmood-shah-2018/**
+- 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/mahmood-shah-2018/)
 
 - ⚡ Fun fact **I ❤ Parkour.**
 
