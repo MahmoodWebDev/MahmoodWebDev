@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Live: Mahmood's Portfolio](https://www.mahmood.io)
 
-- 📝 I regularly write articles on **https://www.linkedin.com/in/mahmood-shah-2018/**
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmood-shah-2018/)
 
 - 💬 Ask me about **MERN Stack, GCP, Firebase, Heroku, Vercel and Netlify.**
 
