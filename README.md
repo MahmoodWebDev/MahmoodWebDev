@@ -54,7 +54,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoodwebdev&show_icons=true&locale=en" alt="mahmoodwebdev" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodwebdev" alt="mahmoodwebdev" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodwebdev&" alt="mahmoodwebdev" /></p>
 
