@@ -56,3 +56,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoodWebDev)](https://git.io/streak-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodwebdev&" alt="mahmoodwebdev" /></p>
+
+
