@@ -54,7 +54,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoodwebdev&show_icons=true&locale=en" alt="mahmoodwebdev" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoodWebDev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoodwebdev&)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodwebdev&" alt="mahmoodwebdev" /></p>
 
