@@ -53,6 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodwebdev&show_icons=true&locale=en&layout=compact" alt="mahmoodwebdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoodwebdev&show_icons=true&locale=en" alt="mahmoodwebdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodwebdev&" alt="mahmoodwebdev" /></p>
-
