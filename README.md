@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mshahsayer" target="blank"><img src="https://img.shields.io/twitter/follow/mshahsayer?logo=twitter&style=for-the-badge" alt="mshahsayer" /></a> </p>
 
-- 🔭 I’m currently working on **AI Tools and frontend technologies e.g. JavaScript, TypeScript, React and Next.js.**
+- 🔭 I’m currently working on **Frontend Technologies e.g. JavaScript, TypeScript, React.js and Next.js.**
 
-- 🌱 I’m currently exploring more **Next js, React and AI tools e.g. GPT-4, Midjourney and Leonardo.ai.**
+- 🌱 I’m currently exploring more **Next.js 14, React.js and AI tools e.g. GPT-4, Midjourney, Leonardo.ai and Gemini.**
 
 - 👨‍💻 All of my projects are available at [Live: Mahmood's Portfolio](https://www.mahmood.io)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmood-shah-2018/)
 
-- 💬 Ask me about **MERN Stack, GCP, Firebase, Heroku, Vercel and Netlify.**
+- 💬 Ask me about **Frontend technologies especially JavaScript, TypeScript and React.js or MERN stack related.**
 
 - 📫 How to reach me: [LinkedIn - Mahmood Shah](https://www.linkedin.com/in/mahmood-shah-2018/)
 
