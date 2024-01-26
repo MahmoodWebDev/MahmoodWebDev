@@ -1,4 +1,26 @@
-<h1 align="center">👋 Hey there, I'm Mahmood! </h1>
+<h1 align="center"><span class="wave">👋</span> Hey there, I'm Mahmood Shah!</h1>
+
+<style>
+  @keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+    10% { transform: rotate(14.0deg) } 
+    20% { transform: rotate(-8.0deg) }
+    30% { transform: rotate(14.0deg) }
+    40% { transform: rotate(-4.0deg) }
+    50% { transform: rotate(10.0deg) }
+    60% { transform: rotate( 0.0deg) } 
+    100% { transform: rotate( 0.0deg) }
+  }
+
+  .wave {
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    animation-name: wave-animation;
+    display: inline-block;
+    transform-origin: 70% 70%;
+  }
+</style>
+
 <h3 align="center">A Passionate Web Developer from the beautiful city of Malmö, Sweden. 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodwebdev" /> </p>
