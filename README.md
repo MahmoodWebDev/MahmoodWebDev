@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583" width="30px"> Hey there, I'm Mahmood!</h1>
+<h1 align="center"><img src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583" width="30px"> Hey there, I'm Mahmood Shah!</h1>
 
 
 <h3 align="center">A Passionate Web Developer from the beautiful city of Malmö, Sweden. 🇸🇪</h3>
