@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Mahmood Shah! </h1>
+<h1 align="center">👋 Hey there, I'm Mahmood! </h1>
 <h3 align="center">A Passionate Web Developer from the beautiful city of Malmö, Sweden. 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodwebdev" /> </p>
