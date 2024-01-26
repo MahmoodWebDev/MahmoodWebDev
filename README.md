@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012" width="30px"> Hey there, I'm Mahmood Shah!</h1>
+<h1 align="center"><img src="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308" width="30px"> Hey there, I'm Mahmood Shah!</h1>
 
 
 <h3 align="center">A Passionate Web Developer from the beautiful city of Malmö, Sweden. 🇸🇪</h3>
