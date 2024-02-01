@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodwebdev" /> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahmood-shah-2018/">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" style="vertical-align:top; margin:4px">
+  <a href="https://www.linkedin.com/in/mahmood-shah-2018/" target="_blank">
+    <img alt="Mahmood Shah" src="https://img.shields.io/badge/-Mahmood%20Shah-blue?style=for-the-badge&logo=Linkedin&logoColor=white" style="height: 30px; width: auto;">
   </a>
 </p>
-
 
 - 🔭 I’m currently working on **Frontend Technologies e.g. JavaScript, TypeScript, React.js and Next.js.**
 
