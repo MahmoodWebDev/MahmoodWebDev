@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate Web Developer from the city of Malmö, Sweden. 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodwebdev" /> </p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmood-shah-2018/" target="_blank">
     <img alt="Mahmood Shah" src="https://img.shields.io/badge/-Mahmood%20Shah-blue?style=plastic&logo=Linkedin&logoColor=white" style="height: 25px; width: auto;">
