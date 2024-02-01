@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodwebdev" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mahmood-shah-2018/" target="blank"><img alt="Mahmood Shah" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmahmood-shah-2018%2F">
+<p align="left"> <img alt="Mahmood Shah" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmahmood-shah-2018%2F">
 </a> </p>
 
 - 🔭 I’m currently working on **Frontend Technologies e.g. JavaScript, TypeScript, React.js and Next.js.**
