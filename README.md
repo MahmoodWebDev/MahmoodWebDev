@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring more **Next.js 14, React.js and AI tools e.g. GPT-4, Midjourney, Leonardo.ai and Gemini.**
 
-- 👨‍💻 All of my projects are available at [Live: Mahmood's Portfolio](https://www.mahmood.io)
+- 👨‍💻 Some of my projects are available at [Live: Mahmood's Portfolio](https://www.mahmood.io)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmood-shah-2018/)
 
