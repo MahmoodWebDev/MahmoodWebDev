@@ -15,7 +15,7 @@
 
 - 👨‍💻 Some of my projects are available at [Live: Mahmood's Portfolio](https://www.mahmood.io)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmood-shah-2018/)
+- 📝 I frequently share insights and write articles on LinkedIn. [LinkedIn](https://www.linkedin.com/in/mahmood-shah-2018/)
 
 - 💬 Ask me about **Frontend technologies especially JavaScript, TypeScript and React.js or MERN stack related.**
 
