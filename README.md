@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><h1 align="center"><span class="wave"></span> Hey there, I'm Mahmood!</h1>
+<h1 align="center"><span class="wave"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></span> Hey there, I'm Mahmood!</h1>
 
 <h3 align="center">A Passionate Web Developer from the city of Malmö, Sweden. 🇸🇪</h3>
 
