@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend Technologies e.g. JavaScript, TypeScript, React.js and Next.js.**
 
-- 🌱 I’m currently exploring more **Next.js 14, React.js and AI tools e.g. GPT-4, Advanced Gemini, Midjourney and Leonardo.ai.**
+- 🌱 I’m currently exploring more **Next.js 14, React.js and AI tools e.g. GPT-4o, Advanced Gemini, Midjourney and Leonardo.ai.**
 
 - 👨‍💻 Some of my projects are available at [Live: Mahmood's Portfolio](https://www.mahmood.io)
 
